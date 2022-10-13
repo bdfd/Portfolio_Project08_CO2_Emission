@@ -1,27 +1,10 @@
-<!--
- * @Author: BDFD
- * @Date: 2022-02-23 11:32:47
- * @LastEditTime: 2022-02-23 12:26:35
- * @LastEditors: BDFD
- * @Description:
- * @FilePath: \3.3-DS_Project_Template\README.md
--->
-
-# 3.3-DS_Project_Template
-
-Descritpion Template
-Person Side Project Portfolio. Also included a few resources on side that I found helpful.
-
-Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
-
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Project_Name{Github})[![View My Profile]
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>CO2 Emissions
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
+![ViewCount](https://views.whatilearened.today/views/github/bdfd/Portfolio_Project08_CO2_Emission.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/bdfd/Portfolio_Project08_CO2_Emission?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/bdfd/Portfolio_Project08_CO2_Emission?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
 ## Applied Learning Project
 
@@ -29,27 +12,25 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
 **Tools:** Jupyter / JupyterLab, GitHub
 
-**Algorithm Category:** Regression, Classification
+**Algorithm Category:** Regression
 
 **Purpose:** Data Cleaning, Apply Algorithm
 
-**Algorithm:** Linear Regress, SVM, KNN, etc
+**Algorithm:** Univariate Linear Regression, Multivariate Linear Regression
 
-**Libraries:** Pandas, NumPy
+**Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn
 
-**Projects:** ABC Project Name
+**Projects:** CO2 Emissions
 
 > **Problem statement**  
-> Predict the percentage of an student based on the no. of study hours. <br>
-> This is a simple linear regression task as it involves just 2 variables.<br>
-> You can use R, Python, SAS Enterprise Miner or any other tool.<br>
-> What will be predicted score if a student studies for 9.25 hrs/ day? <br>
+> Predict the total emission of CO2 using univariate linear regression and multivariate linear regression. <br>
 
 **Reference:**  
-Dateset:<a href="https://raw.githubusercontent.com/bdfd/Project04_Avacado_Price_Analysis-Kaggle/main/dataset/Avocado.csv">Dataset.csv</a>  
-Train Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project07_BigMart_Sales/main/dataset/train.csv">Train.csv</a>    
-Test Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project07_BigMart_Sales/main/dataset/test.csv">Test.csv</a>  
-Demo:<a href="https://github.com/bdfd/Project_04_Done_Avacado_Price/blob/main/Avocado_Price_Sale_Analysis.ipynb">Jupyter Notebook/Colab Link</a>
+Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project08_CO2_Emission/main/dataset/FuelConsumption2.csv">Dataset.csv</a>  
+Train Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project08_CO2_Emission/main/display%20demo/train.csv">Train.csv</a>  
+Test Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project08_CO2_Emission/main/display%20demo/test.csv">Test.csv</a>  
+Demo:<a href="https://github.com/bdfd/Portfolio_Project08_CO2_Emission/blob/main/CO2_Emission.ipynb">Jupyter Notebook/Colab Link</a>
+
 <!-- Demo:<a href="Youtube Link">Demo Website Link</a> -->
 <!-- Reference:
 - <a href="https://www.kaggle.com/datasets/smokingkrils/avacado-price-prediction?select=Avocado.csv">Orginal Data Source Link</a>
