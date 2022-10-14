@@ -16,7 +16,7 @@
 
 **Purpose:** Data Cleaning, Apply Algorithm
 
-**Algorithm:** Univariate Linear Regression, Multivariate Linear Regression
+**Algorithm:** Linear Univariate Regression, Linear Multivariate Regression
 
 **Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn
 
